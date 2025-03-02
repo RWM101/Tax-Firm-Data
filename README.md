@@ -1,2 +1,4 @@
-# Project-Data-Analyst
-Analyzing a firm's annual workload, and determining how to distribute that work.
+# Tax Firm Data Analysis
+Analyzing a tax firm's annual workload during busy season, and determining how to distribute that work.
+
+##The Problem:
