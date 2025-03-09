@@ -12,4 +12,4 @@ Business returns refers to Partnerships, Corporations, S-Corps, LLCs, etc. Indiv
 
 As mentioned briefly above, tax returns can also be bundled into groups. There could be four or ten tax returns which are all part of a single group, and therefore should all go to a single person, based on skill level and (sometimes) current workload. Particularly large groups (15-20+ returns) will be assigned to one or more hand-picked staff in advance, and therefore can be unavailable for any other work.
 
-## Determining workloads.
+## Determining workloads:
