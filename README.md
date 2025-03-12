@@ -12,4 +12,5 @@ Business returns refers to Partnerships, Corporations, S-Corps, LLCs, etc. Indiv
 
 As mentioned briefly above, tax returns can also be bundled into groups. There could be four or ten tax returns which are all part of a single group, and therefore should all go to a single person, based on skill level and (sometimes) current workload. Particularly large groups (15-20+ returns) will be assigned to one or more hand-picked staff in advance, and therefore can be unavailable for any other work.
 
-## Determining Associate and Senior Workloads:
+## Determining Staff Workloads:
+Before anything else, we need to see how the work is currently distributed. Each project has a number of hours assigned for the preparer role and various reviewer roles, and the firm uses various statuses (In Prep; In, Assigned, etc.) to determine how close a project is to completion. 
