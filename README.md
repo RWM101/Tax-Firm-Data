@@ -14,3 +14,5 @@ As mentioned briefly above, tax returns can also be bundled into groups. There c
 
 ## Determining Staff Workloads:
 Before anything else, we need to see how the work is currently distributed. Each project has a number of hours assigned for the preparer role and various reviewer roles, and the firm uses various statuses (In Prep; In, Assigned, etc.) to determine how close a project is to completion. 
+![01a_AssociateSeniors](https://github.com/user-attachments/assets/8e910e57-f4c2-4a46-b5aa-bdfb43b4dbf6)
+![01b_Interns](https://github.com/user-attachments/assets/fba28cc9-677c-4aaa-a6b7-395d07a59e83)
