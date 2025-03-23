@@ -37,6 +37,10 @@ For the interns, the goal is to keep ~50 hours assigned for an FTE of 1.0, so Ce
 ## Determining Associate and Senior Workloads:
 ![01a_AssociateSeniors](https://github.com/user-attachments/assets/8e910e57-f4c2-4a46-b5aa-bdfb43b4dbf6)
 
+## Weekly Performance:
+
+## Distributed Workloads for the Year:
+
 ## Conclusions:
 - Interns
   - Cecilia McIntosh and Luca Rush should have roughly 10 hours of work added to their list to get to tbe 50-hour backlog goal.
