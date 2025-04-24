@@ -64,4 +64,4 @@ Tackling the associates first, London Moran looks incredibly busy, but 130 of hi
   - London Moran appears to have far too much work for an associate, but most of those hours are from three projects that he will revise throughout the year. The data can be misleading.
   - Joyce Gutierez should have her Assigned work split in half and shared with Vance Hoover.
 - Seniors:
-  - 
+  - d
