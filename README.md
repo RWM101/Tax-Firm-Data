@@ -50,7 +50,9 @@ These images convey a few issues:
   - Joyce Gutierez has 40 hours of assigned work which should be split with Vance Hoover, who has no work after he finishes his current project(s).
 - All things being equal, the seniors should be tackling the more challenging work, which means their total hours _should_ be higher if they are doing a similar number of projects. Seniors with a low number of hours are likely very close to running out of work.
 
-Tackling the associates first, London Moran looks incredibly busy, but 130 of his hours come from just three projects (of 40, 40, and 50 hours). London will pick up and put down these projects throughout the year, doing only a few hours at a time, and won't really be a part of his daily workload. This is a good example of how the method of tracking hours can be deceptive. This issue is resolved later on when the firm switches to a different tracking tool.
+Looking at the associates first, London Moran looks very busy, but 130 of his hours come from just three projects which he will be working on intermittently throughout the year. That leaves 45 hrs Assigned as 'workable.' Unfortunately until these projects have their status changed (to 'On Hold' for example) they will cause this spike in hours.
+
+For the seniors, their distribution is uneven, but there isn't a large pool of projects to assign, like the intern pool, to fill out their lists. The staff pool only has 3 projects of 18 hours available, so projects will have to be shifted among them instead.
 
 ## Weekly Performance:
 
@@ -64,4 +66,4 @@ Tackling the associates first, London Moran looks incredibly busy, but 130 of hi
   - London Moran appears to have far too much work for an associate, but most of those hours are from three projects that he will revise throughout the year. The data can be misleading.
   - Joyce Gutierez should have her Assigned work split in half and shared with Vance Hoover.
 - Seniors:
-  - d
+  - They appear low, but rebalancing will have to come from shifting projects among them, as there aren't a lot of uncalimed projects (unlike the intern pool).
