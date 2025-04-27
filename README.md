@@ -55,15 +55,45 @@ Looking at the associates first, London Moran looks very busy, but 130 of his ho
 For the seniors, their distribution is uneven, but there isn't a large pool of projects to assign, like the intern pool, to fill out their lists. The staff pool only has 3 projects of 18 hours available, so projects will have to be shifted among them instead.
 
 ## Weekly Performance:
+![image](https://github.com/user-attachments/assets/c235041e-bbc5-4a71-bd98-4a7f1d9324ae)
+
+Besides assigning and balancing work, it's also important to monitor the hours worked across the office. In the chart above we can see the billable hours worked for all skill levels (except for partners) week after week. Each week is represented on the X-axis, with hours on the Y-axis. We will focus on the interns, associates, and seniors below, but you can see that the hours worked is skewing towards the 50-hour/week mark as 4/15 approaches.
+
+A point of clarification: The intern group focuses almost exclusively on 4/15 work, while the Associates and Seniors focus mainly on 3/15 work, and then either continue with extended 3/15 projects (which are then due 9/15) or will take on some 4/15 work as well. This means that interns will see more fluctuation in hours at the start of busy season, as less 4/15 work is available, and Associates and Seniors will often show a dip in hours later on, as their overtime spikes before 3/15, and then drops as the availble work is reduced.
+
+### Intern Weekly Performance:
+![image](https://github.com/user-attachments/assets/5e5977d8-12ba-415f-9d5c-4ab2ff9af2bf)
+
+Zooming in on the interns, we can see immediately that Luca Rush and Cecilia McIntosh have had a similar amount of hours throughout their intership. Conversely, Lucca Leon near the bottom, didn't start until Week 6, and has both very reduced hours, but those hours are still fluctuating quite a bit. All three interns also start similarly, with a clear increase in hours for a couple weeks followed by a drop. This is often due to lulls in billable work, likely due to interns completing most of the available work, as well as follow-up training during the beginning of busy season.
+
+Before it was observed That Lucca Leon was performing better than the full-time interns. That won't really be an asset until their worked hours stabilize, hopefully before the end of busy season.
+
+### Associate Weekly Performance:
+![image](https://github.com/user-attachments/assets/72804744-5597-42cc-95b9-906903446881)
+
+The associates show a clear increase in hours as the weeks progress. The significant dips are due to a new element, which is that the lion's share of billable work comes from a single client in January, and takes all of January and some of February to complete. The dips are from this work being completed, and then taking on the (relatively quiet) remaining 3/15 and 4/15 work.
+
+The graph also shows that there were several new additions to the Associate pool during busy season. London Moran started on Week 5, Owen Newman started on Week 6, and Isaac Ward started on Week 13, in the bottom corner. Except for Isaac, the other two associates have been uitilized quickly and their hours look relatively stable.
+
+Something worth mentioning is that the Associates hit their stride more quickly than the interns, and are also working more hours than the interns.
+
+### Senior Weekly Performance:
+![image](https://github.com/user-attachments/assets/adb9be7a-62da-4d8b-bd2e-026257bcf0bc)
+
+The Senior hours show a different story than the Interns and Associates. These are the most experienced preparers, and almost immediately they hit their overtime goals, and have ample work to keep them busy. Much of the work that comes in in January is complex enough to be exclusive to seniors, and this is also the stage where preparers will begin reviewing the work of the Interns and Associates. When the interns and Associates run out of work, the Seniors are busy reviewing that work.
+
+A couple items of note: Guadalupe, at the bottom, is part time, but their hours are trending upwards week after week. For seniors especially there can be a lot of pressure for part-time staff to work more than they should, with so much work available. Guadalupe's assignments will have to be monitored so they don't feel undue pressure to work beyond their means. Addiitonally, though hard to see, Amari Schwartz (the light lavender color) started in Week 4 right in the middle of the pack, and has stayed with the full-time staff the entire time. Their assignments should also be monitored, despite their clear experience, as they will still be learning the ropes during one of the busiest times of the year.
 
 ## Distributed Workloads for the Year:
 
 ## Conclusions:
 - Interns: 
   - Cecilia McIntosh and Luca Rush should have roughly 10 hours of work added to their list to get to tbe 50-hour backlog goal.
-  - Lucca Leon, despite being part-time, has slightly better performance. Being part-time, their goal is 30 assigned hours instead of 50, so need just over 10 hours assigned.
+  - Lucca Leon, despite being part-time, has slightly better performance. Being part-time, their goal is 30 assigned hours instead of 50, so need just over 10 hours assigned. Looking at their weekly performance, though, they are not yet hitting a consistent number of hours worked. Their hours/schedule will need to be monitored to maximize their performance.
 - Associates:
   - London Moran appears to have far too much work for an associate, but most of those hours are from three projects that he will revise throughout the year. The data can be misleading.
   - Joyce Gutierez should have her Assigned work split in half and shared with Vance Hoover.
+  - New hires London Moran and Owen Newman should be monitored so they aren't overwhelmed in their first few weeks. The other new hire, Isaac Ward, is coming on right when work _should_ be reducing, and also when the partners and reviewers are most stressed. They should be given enough to keep them busy, but also favor work from partners who are more patient, understanding, or have already completed more of their client's work.
 - Seniors:
-  - They appear low, but rebalancing will have to come from shifting projects among them, as there aren't a lot of uncalimed projects (unlike the intern pool).
+  - They appear low, but rebalancing will have to come from shifting projects among them, as there are fewer uncalimed projects (unlike the intern pool).
+  - Amari Schwartz is a new hire, and has immediately equalled their peers in terms of hours worked. It's important to remember they will still be learning the ropes of a new work environment, despite their obvious experience. Also, it would be worth monitoring how quickly they are completing their work (is a 10 hour project taking them 10 hours to do, or are they billing for 15?) so they aren't floundering while appearing to be as busy as their fellow Seniors.
