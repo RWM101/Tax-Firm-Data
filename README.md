@@ -4,6 +4,9 @@ Analyzing a tax firm's annual workload during busy season, and determining how t
 _Note: Staff and client names have been changed. As such, some source files are not included, but versions with altered names are._ 
 
 ## Overview:
+During busy season, the Project Manager has to assign projects to various staff as quickly as possible. The native tools aren'
+
+## Overview (Old):
 Each year during tax season there are a number of tax returns (referred to as projects) to distribute among various preparers, based on skill level and availability. Projects need to be assigned based on the date they were 'checked-in,' based on the skill level required (intern, associate, seior), and if any projects are interrelated (in which case they should go to the same preparer), until busy season ends on 4/15.
 
 Business returns generally go to our seniors or associates (based on skill level), and simple trusts and the individual returns generally go to our interns. Business returns are due on 3/15, and individual returns are due on 4/15, and every year about 1,500 projects are "checked-in," meaning they are ready to be prepared.
