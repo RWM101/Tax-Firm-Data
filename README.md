@@ -3,8 +3,16 @@ Analyzing a tax firm's annual workload during busy season, and determining how t
 
 _Note: Staff and client names have been changed. As such, some source files are not included, but versions with altered names are._ 
 
-## Overview:
-During busy season, the Project Manager has to assign projects to various staff as quickly as possible. The native tools aren'
+## Overview and Objective:
+The work below is for a tax firm, about a week before the end of busy season (4/15). During busy season, the Project Manager needs to assign projects as quickly as possible to the most suitable preparer, based on skill level and workload. Additionally, projects which have been "checked-in" earlier (i.e. have been waiting to be assigned the longest) have priority when assigning and preparing. Additionally, the built-in reporting tools are robust, but do not produce easily-readable results. 
+
+Though less important, the Project Manager also has to be able to determine the productivity of staff.
+
+The objective is to provide end-to-end reporting for the Project Manager, and to surface key information so the Project Manager can see who should receive additional projects.
+
+The various reports/dashboards are:
+- Report 1
+- Report 2
 
 ## Overview (Old):
 Each year during tax season there are a number of tax returns (referred to as projects) to distribute among various preparers, based on skill level and availability. Projects need to be assigned based on the date they were 'checked-in,' based on the skill level required (intern, associate, seior), and if any projects are interrelated (in which case they should go to the same preparer), until busy season ends on 4/15.
