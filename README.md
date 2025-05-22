@@ -14,22 +14,14 @@ The various reports/dashboards are:
 - Report 1
 - Report 2
 
-## Overview (Old):
-Each year during tax season there are a number of tax returns (referred to as projects) to distribute among various preparers, based on skill level and availability. Projects need to be assigned based on the date they were 'checked-in,' based on the skill level required (intern, associate, seior), and if any projects are interrelated (in which case they should go to the same preparer), until busy season ends on 4/15.
-
-Business returns generally go to our seniors or associates (based on skill level), and simple trusts and the individual returns generally go to our interns. Business returns are due on 3/15, and individual returns are due on 4/15, and every year about 1,500 projects are "checked-in," meaning they are ready to be prepared.
-
-Business returns refers to Partnerships, Corporations, S-Corps, LLCs, etc. Individual projects refers to individual returns, but also gift tax returns and FBARs (related to foreign bank accounts).
-
-As mentioned briefly above, tax returns can also be bundled into groups. There could be four or ten tax returns which are all part of a single group, and therefore should all go to a single person, based on skill level and (sometimes) current workload. Particularly large groups (15-20+ returns) will be assigned to one or more hand-picked staff in advance, and therefore can be unavailable for any other work.
-
 ### FTE Values:
 All staff also have a FTE (Full-Time Employee) value. A value of 1.0 means they are Full-Time, with 40 hours of available time during most of the year and 50 hours of available time expected during busy season. An FTE value of 0.5, then, represents someone who works 20 hrs./week and will probably due 25 hrs./week during busy season.
 
 ## 4/15 Projects to Complete:
-There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion.
+There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion:
 
-![image](https://github.com/user-attachments/assets/2979e1d5-222d-4306-8de1-0435f7e4b466)
+![image](https://github.com/user-attachments/assets/a37036ed-6300-4fc4-8b07-02b3a64fc825)
+
 
 The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.
 
@@ -39,7 +31,7 @@ For interns, associates, and seniors, the majority of work is assigned to a queu
 ## Determining Intern Workloads:
 Having only three interns this year serves as a bit of a bottleneck. Additionally, Lucca Leon is part time, working only 24 hrs. per week.
 
-![Intern Workload](https://github.com/user-attachments/assets/44536791-6d8e-4c80-8ed3-78f3bc069f9b)
+![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
 
 In the chart above, Cecilia and Luca Rush each have 41 and 40 hours assigned, respectively, and Cecilia currently has 10 hours marked as "In Prep," meaning she is actively working on that project. There is also an intern pool, containing 225 hours of unassigned work which also needs to be completed.
 
@@ -48,11 +40,11 @@ For the interns, the goal is to keep ~50 hours assigned for an FTE of 1.0, so Ce
 ## Determining Associate and Senior Workloads:
 Here is a list of all the associates and seniors assigned to projects, and the hours of each stage.
 
-![image](https://github.com/user-attachments/assets/cbeac0d8-fa98-4459-8de5-9bbaa8802b9d)
+![image](https://github.com/user-attachments/assets/76431f78-b39b-4b4a-9557-dc5baba896ae)
 
 The picture becomes more clear when isolating the associates (left) and seniors (right).
 
-![image](https://github.com/user-attachments/assets/8d0364fc-ecc3-466a-a690-3f42147e5911)
+![image](https://github.com/user-attachments/assets/31edfd92-9661-431d-9ed0-2a9010c25a8b)
 
 These images convey a few issues:
 - The associates should generally have similar hours, depending on their FTE (most of which are a full FTE of 1.0).
