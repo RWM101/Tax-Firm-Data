@@ -1,21 +1,23 @@
 # Tax Firm Data Analysis
 Analyzing a tax firm's annual workload during busy season, and determining how to distribute that work.
 
-_Note: Staff and client names have been changed. As such, some source files are not included, but versions with altered names are._ 
+## The Problem Overview, FTE Values, Objective, Metrics Used:
 
-## Overview and Objective:
-The work below is for a tax firm, about a week before the end of busy season (4/15). During busy season, the Project Manager needs to assign projects as quickly as possible to the most suitable preparer, based on skill level and workload. Additionally, projects which have been "checked-in" earlier (i.e. have been waiting to be assigned the longest) have priority when assigning and preparing. Additionally, the built-in reporting tools are robust, but do not produce easily-readable results. 
+### Problem Overview:
+During busy season, the Project Manager needs to assign projects as quickly as possible to the most suitable preparer, based on skill level, workload, and FTE value (available hours, explained below). Additionally, projects which have been "checked-in" earlier (i.e. have been waiting to be assigned the longest) have priority when assigning and preparing. Additionally, the management software's built-in reporting tools are robust, but difficult to parse. 
 
-Though less important, the Project Manager also has to be able to determine the productivity of staff.
+The work below is for a tax firm, about a week before the end of busy season (4/15).
 
-The objective is to provide end-to-end reporting for the Project Manager, and to surface key information so the Project Manager can see who should receive additional projects.
+### FTE Values:
+FTE stands for Full-Time Employee, and represents the amount of full-time hours an employee is providing from 0.0 to 1.0. An employee with an FTE of 1.0 is full-time, working 40 hours/week (or 55 hours/week during busy season). and an employee with an FTE of 0.4 is part-time, working only 16 hours/week (or 22 hours/week during busy season). This value is used when determining how to assign work, and is especially helpful in ambiguous circumstances.
 
+### Objective:
+The Project Manager needs end-to-end reporting of staff hours, , and to surface key information so the Project Manager can see who should receive additional projects.
+
+### Metrics Used
 The various reports/dashboards are:
 - Report 1
 - Report 2
-
-### FTE Values:
-All staff also have a FTE (Full-Time Employee) value. A value of 1.0 means they are Full-Time, with 40 hours of available time during most of the year and 50 hours of available time expected during busy season. An FTE value of 0.5, then, represents someone who works 20 hrs./week and will probably due 25 hrs./week during busy season.
 
 ## 4/15 Projects to Complete:
 There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion:
@@ -24,9 +26,6 @@ There are 873 projects remaining for the upcoming 4/15 deadline, in various stag
 
 
 The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.
-
-## How work is assigned:
-For interns, associates, and seniors, the majority of work is assigned to a queue when they are ready to begin. Once a project is "checked-in," it is routed to the best staff person based on their backlog, prior projects, and their FTE value. Projects are assigned in FIFO order (first in, first out), meaning that projects checked-in sooner should be prepared and completed sooner. interns are assigned work up to certain threshold, with many projects kept in reserve to assign as needed, so that the fastest preparers will continue receiving additional work. Projects can also be reassigned to different preparers, as needed.
 
 ## Determining Intern Workloads:
 Having only three interns this year serves as a bit of a bottleneck. Additionally, Lucca Leon is part time, working only 24 hrs. per week.
