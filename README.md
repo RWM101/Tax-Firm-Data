@@ -1,10 +1,14 @@
 # Tax Firm Data Analysis
 
 ## Business Problem:
+During busy season (ending on 4/15), there is no quick way to determine who should be assigned more tax work. The traditional process has been to review tax preparer workloads by hand, as well as reach out to them individually in case of unknown bottlenecks or roadblocks. This process can take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of work the PM needs to assign and the urgency during busy season.
 
+The data below is roughly two weeks before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
 
 ## Project Goal:
-Create dashboards for the Project Manager (PM) to be able to determine the best tax preparer to receive additional projects, based on each employee's skill level, current workload, and available hours (i.e. their FTE value, explained below).
+The goal of this project is to create a dashboard that helps the PM assign work efficiently before the deadline.
+
+The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have done related work already this year.
 
 ## Overview:
 - As a tax firm, almost all tax projects have to go through the PM, who determines the best employee to prepare each project, based on the criteria above (skill level, current workload, and their FTE value).
@@ -14,9 +18,6 @@ Create dashboards for the Project Manager (PM) to be able to determine the best 
 During busy season the process of assigning projects becomes the priority, and would easily be overwhelming using only the available software.
 
 The data below was taken about ten days before the busy season deadline (4/15).
-
-### FTE Values:
-FTE stands for Full-Time Employee, and represents the amount of full-time hours an employee is providing from 0.0 to 1.0. An employee with an FTE of 1.0 is full-time, working 40 hrs/wk (or 55 hrs/wk during busy season). and an employee with an FTE of 0.4 is part-time, working only 16 hrs/wk (or 22 hrs/wk during busy season). This value is used to check if employees are meeting their performance goals, and can decide who should be assigned to a project when there are multiple viable employees.
 
 (to clarify: an employees assigned hours can be divided by their FTE value to compare apples to apples. e.g. If a full-time employee, FTE of 1.0, has 50 assigned hours, 50/1.0 = **50 hours**; if a part-time employee who works 16 hrs/wk, FTE 0.4, has 27 assigned hours, 27/0.4 = **67.5 hours**. Therefore, the part-time employee has more work per available hours, and new projects should go to the full-time employee first despite having more assigned hours already.)
 
