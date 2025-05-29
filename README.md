@@ -10,16 +10,12 @@ The goal of this project is to create a dashboard that helps the PM assign work 
 
 The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have done related work already this year.
 
-## Overview:
+## Constraints:
 - As a tax firm, almost all tax projects have to go through the PM, who determines the best employee to prepare each project, based on the criteria above (skill level, current workload, and their FTE value).
 - The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first.
 - Some projects need to be prepared by the same employee, either because the projects belong to the same client, or are part of the same group (a subset of related clients).
 
-During busy season the process of assigning projects becomes the priority, and would easily be overwhelming using only the available software.
-
 The data below was taken about ten days before the busy season deadline (4/15).
-
-(to clarify: an employees assigned hours can be divided by their FTE value to compare apples to apples. e.g. If a full-time employee, FTE of 1.0, has 50 assigned hours, 50/1.0 = **50 hours**; if a part-time employee who works 16 hrs/wk, FTE 0.4, has 27 assigned hours, 27/0.4 = **67.5 hours**. Therefore, the part-time employee has more work per available hours, and new projects should go to the full-time employee first despite having more assigned hours already.)
 
 ### Metrics Used
 The various reports/dashboards are:
