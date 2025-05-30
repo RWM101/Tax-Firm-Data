@@ -21,11 +21,11 @@ The data below was taken about ten days before the busy season deadline (4/15).
 The various reports/dashboards are:
 - [4/15 Projects to Complete](#415-projects-to-complete)
 - [Determining Intern Workloads](#determining-intern-workloads)
-- [Determining Associate and Senior Workloads](#determining-associate-and-senior-Workloads)
-- Weekly Performance
-  - Intern Weekly Performance
-  - Associate Weekly Performance
-  - Senior Weekly Performance
+- [Determining Associate and Senior Workloads](#determining-associate-and-senior-workloads)
+- [Weekly Performance](#weekly-performance)
+  - [Intern Weekly Performance](#intern-weekly-performance)
+  - [Associate Weekly Performance](#associate-weekly-performance)
+  - [Senior Weekly Performance](#senior-weekly-performance)
 
 ## 4/15 Projects to Complete:
 There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion:
