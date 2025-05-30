@@ -1,12 +1,12 @@
 # Tax Firm Data Analysis
 
 ## Business Problem:
-At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, as well as reach out to them individually in case of unknown bottlenecks or roadblocks. This process of waiting for sufficient replies could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of work the PM needs to assign and the urgency during busy season.
+This project is based on work at a tax firm in busy season. At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
 
 The data below is roughly ten days before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
 
 ## Project Goal:
-The goal of this project is to create a dashboard that helps the PM assign work efficiently before the deadline.
+The goal of this project is to create a dashboard that enables the PM to assign work efficiently before the deadline.
 
 The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have already done any work this year that relates to the tax project or client in question.
 
@@ -19,8 +19,8 @@ The data below was taken about ten days before the busy season deadline (4/15).
 
 ### Metrics Used
 The various reports/dashboards are:
-- 4/15 Projects to Complete
-- Determining Intern Workloads
+- [4/15 Projects to Complete](#415-projects-to-complete)
+- [Determining Intern Workloads](#determining-intern-workloads)
 - Determining Associate and Senior Workloads
 - Weekly Performance
   - Intern Weekly Performance
