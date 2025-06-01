@@ -1,7 +1,7 @@
 # Tax Firm Data Analysis
 
 ## Business Problem:
-This project is based on work at a tax firm in busy season. At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
+This project is based on work at a tax firm in busy season (mention something about 3/15 and 4/15). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
 
 The data below is roughly ten days before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
 
@@ -11,7 +11,7 @@ The goal of this project is to create a dashboard that enables the PM to assign 
 The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have already done any work this year that relates to the tax project or client in question.
 
 ## Constraints:
-- As a tax firm, almost all tax projects have to go through the PM, who determines the best employee(s) to prepare each project, based on the criteria above (skill level, current workload, and their FTE value).
+- As a tax firm, almost all tax projects have to go through the PM, who determines the best employee(s) to prepare each project, based on the criteria above (skill level, current workload, and their available hours).
 - The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first.
 - Some projects need to be prepared by the same employee, either because the projects belong to the same client, or are part of the same group (a subset of related clients).
 
