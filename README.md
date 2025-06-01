@@ -17,7 +17,15 @@ The visualizations below are part of a near-realtime dashboard which highlights 
 
 The data below was taken about ten days before the busy season deadline (4/15).
 
-### Metrics Used
+## Data Model and Metrics:
+
+### Data Model:
+The data model is a simple one ... (One status is for employees, the other is the status of each project).
+
+![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
+
+
+### Metrics Used:
 The various reports/dashboards are:
 - [4/15 Projects to Complete](#415-projects-to-complete)
 - [Determining Intern Workloads](#determining-intern-workloads)
