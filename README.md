@@ -17,15 +17,7 @@ The visualizations below are part of a near-realtime dashboard which highlights 
 
 The data below was taken about ten days before the busy season deadline (4/15).
 
-## Data Model and Metrics:
-
-### Data Model:
-The data model is a simple one ... (One status is for employees, the other is the status of each project).
-
-![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
-
-
-### Metrics Used:
+## Metrics Used:
 The various reports/dashboards are:
 - [4/15 Projects to Complete](#415-projects-to-complete)
 - [Determining Intern Workloads](#determining-intern-workloads)
@@ -48,16 +40,18 @@ Having only three interns this year serves as a bit of a bottleneck. Additionall
 
 ![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
 
-In the chart above, Cecilia and Luca Rush each have 41 and 40 hours assigned, respectively, and Cecilia currently has 10 hours marked as "In Prep," meaning she is actively working on that project. There is also an intern pool, containing 225 hours of unassigned work which also needs to be completed.
+In the chart above, to the left, Cecelia and Luca Rush both have roughly 40 hours of work assigned, and Lucca Leon has 19 hours. The blue sections represent hours currently being worked on, and the orange hours represent projects which have been assigned to Cecelia but not yet started.
 
-For the interns, the goal is to keep ~50 hours assigned for an FTE of 1.0, so Cecilia and Luca Rush need ~10 hours added to their backlog. Lucca Leon has an FTE of 0.6, so their goal is 30 hours assigned instead of 50. Lucca Leon may be more performant, as they also need ~10 hours assigned to hit their goal.
+The right image shows 225 hours ready to be assigned to an intern. This number comes from all projects ready to be assigned to an intern. Each intern project has a budget between 2 and 6 hours, so the 225 hours could represent between a couple dozen projects or just over 100 projects.
+
+The goal is to keep full-time interns at near 50 assigned hours. Lucca Leon should be at around 25 hours. Since they will run out of work once they finish their current items, the priority would be to prioritize both Lucca Rush and Lucca Leon when assigning projects. Once they get to 50 and 25 assigned hours, respectively, projects should then be assigned to Cecelia.
 
 ## Determining Associate and Senior Workloads:
 Here is a list of all the associates and seniors assigned to projects, and the hours of each stage.
 
 ![image](https://github.com/user-attachments/assets/76431f78-b39b-4b4a-9557-dc5baba896ae)
 
-The picture becomes more clear when isolating the associates (left) and seniors (right).
+The images below isolate the associates (left) and seniors (right).
 
 ![image](https://github.com/user-attachments/assets/31edfd92-9661-431d-9ed0-2a9010c25a8b)
 
@@ -101,7 +95,10 @@ The senior hours show a different story than the interns and associates. These a
 
 A couple items of note: Guadalupe, at the bottom, is part time, but their hours are trending upwards week after week. For seniors especially there can be a lot of pressure for part-time staff to work more than they should, with so much work available. Guadalupe's assignments will have to be monitored so they don't feel undue pressure to work beyond their means. Addiitonally, though hard to see, Amari Schwartz (the light lavender color) started in Week 4 right in the middle of the pack, and has stayed with the full-time staff the entire time. Their assignments should also be monitored, despite their clear experience, as they will still be learning the ropes during one of the busiest times of the year.
 
-## Distributed Workloads for the Year:
+## Data Model:
+The data model is a simple one ... (One status is for employees, the other is the status of each project).
+
+![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
 
 ## Conclusions:
 - Interns: 
