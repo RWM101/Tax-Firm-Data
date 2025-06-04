@@ -55,16 +55,9 @@ The images below isolate the associates (left) and seniors (right).
 
 ![image](https://github.com/user-attachments/assets/31edfd92-9661-431d-9ed0-2a9010c25a8b)
 
-These images convey a few issues:
-- The associates should generally have similar hours, depending on their FTE (most of which are a full FTE of 1.0).
-  - London Moran has far too much work for an associate.
-  - Most of the associates are getting too low, they will likely run out of work in just a few days.
-  - Joyce Gutierez has 40 hours of assigned work which should be split with Vance Hoover, who has no work after he finishes his current project(s).
-- All things being equal, the seniors should be tackling the more challenging work, which means their total hours _should_ be higher if they are doing a similar number of projects. seniors with a low number of hours are likely very close to running out of work.
+For the associates, the most immediate observation is that Owen Newman and Bishop Ingram both need more work assigned to their plate, while London Moran appears far too impacted. However, London has three large projects (each with a budget of 40-50 hours) that they will only work on intermittently, so they appear far busier than they are. They will likely also need work. Vance Hoover and Joyce Gutierrez have a decent amount of work right now.
 
-Looking at the associates first, London Moran looks very busy, but 130 of his hours come from just three projects which he will be working on intermittently throughout the year. That leaves 45 hrs Assigned as 'workable.' Unfortunately until these projects have their status changed (to 'On Hold' for example) they will cause this spike in hours.
-
-For the seniors, their distribution is uneven, but there isn't a large pool of projects to assign, like the intern pool, to fill out their lists. The staff pool only has 3 projects of 18 hours available, so projects will have to be shifted among them instead.
+For the seniors, they would normally have workloads significantly higher than the associates, but their large deadline was on 3/15, so their workloads will be more equivalent to the associates. Shelby is the one most in need of work, and the majority of the others are in good shape. Diego also has a significant amount of review work. Overall the seniors are in good shape.
 
 ## Weekly Performance:
 
