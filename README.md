@@ -61,9 +61,7 @@ For the seniors, they would normally have workloads significantly higher than th
 
 ## Weekly Performance:
 
-Besides assigning and balancing work, it's also important to monitor the hours worked across the office. In the chart above we can see the billable hours worked for all skill levels (except for partners) week after week. Each week is represented on the X-axis, with hours on the Y-axis. We will focus on the interns, associates, and seniors below, but you can see that the hours worked is skewing towards the 50-hour/week mark as 4/15 approaches.
-
-A point of clarification: The intern group focuses almost exclusively on 4/15 work, while the associates and seniors focus mainly on 3/15 work, and then either continue with extended 3/15 projects (which are then due 9/15) or will take on some 4/15 work as well. This means that interns will see more fluctuation in hours at the start of busy season, as less 4/15 work is available, and associates and seniors will often show a dip in hours later on, as their overtime spikes before 3/15, and then drops as the availble work is reduced.
+Besides assigning and balancing work, it's also important to monitor the hours worked across the office. These changes over time were particularly difficult to picture with the built-in reporting, so these visualizations were particularly helpful.
 
 ### Intern Weekly Performance:
 ![image](https://github.com/user-attachments/assets/cf0e3ed3-0893-4bb1-a042-43a9e13a7056)
