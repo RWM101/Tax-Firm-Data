@@ -66,25 +66,25 @@ Besides assigning and balancing work, it's also important to monitor the hours w
 ### Intern Weekly Performance:
 ![image](https://github.com/user-attachments/assets/cf0e3ed3-0893-4bb1-a042-43a9e13a7056)
 
-Zooming in on the interns, we can see immediately that Luca Rush and Cecilia McIntosh have had a similar amount of hours throughout their intership. Conversely, Lucca Leon near the bottom, didn't start until Week 6, and has both very reduced hours, but those hours are still fluctuating quite a bit. All three interns also start similarly, with a clear increase in hours for a couple weeks followed by a drop. This is often due to lulls in billable work, likely due to interns completing most of the available work, as well as follow-up training during the beginning of busy season.
+Zooming in on the interns, we can see immediately that Luca Rush and Cecilia McIntosh have had a similar amount of hours throughout their intership. Their weeks have been similar, showing a dip in hours at first, and then gradually more time working as their workloads increased. It has taken them a little while to hit regular overtime hours.
+
+Lucca Leon, the part-time intern near the bottom, started on Week 6, and has also had variable hours. Her hours, however, have hovered closer to her maximum  availability from the beginning. Compared to the other two, she hit the ground running.
 
 Before it was observed That Lucca Leon was performing better than the full-time interns. That won't really be an asset until their worked hours stabilize, hopefully before the end of busy season.
 
 ### Associate Weekly Performance:
 ![image](https://github.com/user-attachments/assets/9d2b1504-1d63-45fb-b1a3-710acc152968)
 
-The associates show a clear increase in hours as the weeks progress. The significant dips are due to a new element, which is that the lion's share of billable work comes from a single client in January, and takes all of January and some of February to complete. The dips are from this work being completed, and then taking on the (relatively quiet) remaining 3/15 and 4/15 work.
+The associates show a clear increase in hours as the weeks progress. They had some dips in late January as they completed work for our largest single client, but overall they all were quicker than the interns in reaching consistent overtime levels.
 
-The graph also shows that there were several new additions to the associate pool during busy season. London Moran started on Week 5, Owen Newman started on Week 6, and Isaac Ward started on Week 13, in the bottom corner. Except for Isaac, the other two associates have been uitilized quickly and their hours look relatively stable.
-
-Something worth mentioning is that the associates hit their stride more quickly than the interns, and are also working more hours than the interns.
+London and Owen are the part-time staff, and they have been very active in getting up to speed.
 
 ### Senior Weekly Performance:
 ![image](https://github.com/user-attachments/assets/dbbfe800-79e1-4919-ad3f-91694204fdc6)
 
-The senior hours show a different story than the interns and associates. These are the most experienced preparers, and almost immediately they hit their overtime goals, and have ample work to keep them busy. Much of the work that comes in in January is complex enough to be exclusive to seniors, and this is also the stage where preparers will begin reviewing the work of the interns and associates. When the interns and associates run out of work, the seniors are busy reviewing that work.
+Being the most experienced, the seniors were granted the lion's share of the work, and  hit their overtime hours almost immediately. Since they also will be doing regular review work at this stage, they didn't hit the January slump that the Associates had; they are instead reviewing all the work that the Associates prepared.
 
-A couple items of note: Guadalupe, at the bottom, is part time, but their hours are trending upwards week after week. For seniors especially there can be a lot of pressure for part-time staff to work more than they should, with so much work available. Guadalupe's assignments will have to be monitored so they don't feel undue pressure to work beyond their means. Addiitonally, though hard to see, Amari Schwartz (the light lavender color) started in Week 4 right in the middle of the pack, and has stayed with the full-time staff the entire time. Their assignments should also be monitored, despite their clear experience, as they will still be learning the ropes during one of the busiest times of the year.
+Guadalupe, a part-time senior, has also hit their overtime levels almost immediately, and seems to be trending upwards in recent weeks. There is implicit pressure for part-time staff to do more hours than agreed during busy season, so Guadalupe's hours will need to be monitored closely
 
 ## Data Model:
 The data model is a simple one ... (One status is for employees, the other is the status of each project).
