@@ -1,7 +1,7 @@
 # Tax Firm Data Analysis
 
 ## Business Problem:
-This project is based on work at a tax firm in busy season (mention something about 3/15 and 4/15). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
+This project is based on work at a tax firm in busy season (February to mid-April). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
 
 The data below is roughly ten days before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
 
@@ -11,8 +11,8 @@ The goal of this project is to create a dashboard that enables the PM to assign 
 The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have already done any work this year that relates to the tax project or client in question.
 
 ## Constraints:
-- As a tax firm, almost all tax projects have to go through the PM, who determines the best employee(s) to prepare each project, based on the criteria above (skill level, current workload, and their available hours).
-- The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first.
+- As a tax firm, almost all tax projects have to go through the PM, who determines the "best" employee(s) to prepare each project, based on the criteria above (skill level, current workload, and their available hours).
+- The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first. (e.g. projects with a January check-in date need to be assigned before any projects checked-in during February or March.)
 - Some projects need to be prepared by the same employee, either because the projects belong to the same client, or are part of the same group (a subset of related clients).
 
 The data below was taken about ten days before the busy season deadline (4/15).
@@ -28,19 +28,19 @@ The various reports/dashboards are:
   - [Senior Weekly Performance](#senior-weekly-performance)
 
 ## 4/15 Projects to Complete:
-There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion:
+There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion. Below are the number of projects in each step of their life cycle:
 
 ![image](https://github.com/user-attachments/assets/dca93481-0bdd-45c9-ba3a-ed6efee5d9fd)
 
 
-The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.
+The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.  You can see we have many projects still in the "Waiting for Info" step, meaning we are still waiting for enough info from the client to begin. These will most likely be extended.
 
 ## Determining Intern Workloads:
 Having only three interns this year serves as a bit of a bottleneck. Additionally, Lucca Leon is part time, working only 24 hrs. per week.
 
 ![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
 
-In the chart above, to the left, Cecelia and Luca Rush both have roughly 40 hours of work assigned, and Lucca Leon has 19 hours. The blue sections represent hours currently being worked on, and the orange hours represent projects which have been assigned to Cecelia but not yet started.
+In the chart above, to the left, Cecelia and Luca Rush both have roughly 40 hours of work assigned, and Lucca Leon has 19 hours. The blue sections represent hours currently being worked on, and the orange hours represent upcoming work that has yet to be started.
 
 The right image shows 225 hours ready to be assigned to an intern. This number comes from all projects ready to be assigned to an intern. Each intern project has a budget between 2 and 6 hours, so the 225 hours could represent between a couple dozen projects or just over 100 projects.
 
