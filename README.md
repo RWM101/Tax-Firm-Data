@@ -92,13 +92,7 @@ The data model is a simple one ... (One status is for employees, the other is th
 ![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
 
 ## Conclusions:
-- Interns: 
-  - Cecilia McIntosh and Luca Rush should have roughly 10 hours of work added to their list to get to tbe 50-hour backlog goal.
-  - Lucca Leon, despite being part-time, has slightly better performance. Being part-time, their goal is 30 assigned hours instead of 50, so need just over 10 hours assigned. Looking at their weekly performance, though, they are not yet hitting a consistent number of hours worked. Their hours/schedule will need to be monitored to maximize their performance.
-- Associates:
-  - London Moran appears to have far too much work for an associate, but most of those hours are from three projects that he will revise throughout the year. The data can be misleading.
-  - Joyce Gutierez should have her Assigned work split in half and shared with Vance Hoover.
-  - New hires London Moran and Owen Newman should be monitored so they aren't overwhelmed in their first few weeks. The other new hire, Isaac Ward, is coming on right when work _should_ be reducing, and also when the partners and reviewers are most stressed. They should be given enough to keep them busy, but also favor work from partners who are more patient, understanding, or have already completed more of their client's work.
-- Seniors:
-  - They appear low, but rebalancing will have to come from shifting projects among them, as there are fewer uncalimed projects (unlike the intern pool).
-  - Amari Schwartz is a new hire, and has immediately equalled their peers in terms of hours worked. It's important to remember they will still be learning the ropes of a new work environment, despite their obvious experience. Also, it would be worth monitoring how quickly they are completing their work (is a 10 hour project taking them 10 hours to do, or are they billing for 15?) so they aren't floundering while appearing to be as busy as their fellow seniors.
+- It was vital to create these dashboards for the Project Manager to be able to determine which employees were available for additional work, and which were impacted.
+- Looking at the intern workloads and their time entry shows that they need many more work hours, given the coming deadline, but that part-time employee is getting a suitable percentage of work compared to the full-time employees.
+- Associates and Seniors need to be used for much more 4/15 work, given the coming deadline,
+- Seniors ...
