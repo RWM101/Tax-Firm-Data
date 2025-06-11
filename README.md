@@ -1,21 +1,26 @@
 # Tax Firm Data Analysis
 
-## Business Problem:
+## Project Goal:
+The goal of this project is to create a dashboard that enables the PM to assign work efficiently before the 4/15 deadline at a tax firm.
+
+## Overview and Constraints:
 This project is based on work at a tax firm in busy season (February to mid-April). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
 
 The data below is roughly ten days before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
 
-## Project Goal:
-The goal of this project is to create a dashboard that enables the PM to assign work efficiently before the deadline.
-
 The visualizations below are part of a near-realtime dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have already done any work this year that relates to the tax project or client in question.
 
-## Constraints:
-- As a tax firm, almost all tax projects have to go through the PM, who determines the "best" employee(s) to prepare each project, based on the criteria above (skill level, current workload, and their available hours).
-- The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first. (e.g. projects with a January check-in date need to be assigned before any projects checked-in during February or March.)
+### Constraints:
+- Almost all tax projects have to go through the PM, who determines the "best" employee(s) to prepare each project, based on the criteria above (skill level, current workload, available hours, and work on related projects).
+- The 'checked-in' date is a project constraint which determines the projects to assign first. Projects which have an older checked-in date have been waiting the longest, and need to be assigned first. (e.g. projects with a January check-in date need to be assigned before any with February or March check-in dates.)
 - Some projects need to be prepared by the same employee, either because the projects belong to the same client, or are part of the same group (a subset of related clients).
 
 The data below was taken about ten days before the busy season deadline (4/15).
+
+## Data Model:
+The data model is a simple one ... (One status is for employees, the other is the status of each project).
+
+![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
 
 ## Metrics Used:
 The various reports/dashboards are:
@@ -85,11 +90,6 @@ London and Owen are the part-time staff, and they have been very active in getti
 Being the most experienced, the seniors were granted the lion's share of the work, and  hit their overtime hours almost immediately. Since they also will be doing regular review work at this stage, they didn't hit the January slump that the Associates had; they are instead reviewing all the work that the Associates prepared.
 
 Guadalupe, a part-time senior, has also hit their overtime levels almost immediately, and seems to be trending upwards in recent weeks. There is implicit pressure for part-time staff to do more hours than agreed during busy season, so Guadalupe's hours will need to be monitored closely
-
-## Data Model:
-The data model is a simple one ... (One status is for employees, the other is the status of each project).
-
-![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
 
 ## Conclusions:
 - It was vital to create these dashboards for the Project Manager to be able to determine which employees were available for additional work, and which were impacted.
