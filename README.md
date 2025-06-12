@@ -82,7 +82,7 @@ Before it was observed That Lucca Leon was performing better than the full-time 
 
 The associates show a clear increase in hours as the weeks progress. They had some dips in late January as they completed work for our largest single client, but overall they all were quicker than the interns in reaching consistent overtime levels.
 
-London and Owen are the part-time staff, and they have been very active in getting up to speed.
+London and Owen are the part-time staff, and they have been very active in getting up to speed. London's list is deceptively large, as he has three projects, each worth 40-50 hours of work, that he will only be touching intermittently.
 
 ### Senior Weekly Performance:
 ![image](https://github.com/user-attachments/assets/dbbfe800-79e1-4919-ad3f-91694204fdc6)
@@ -91,8 +91,8 @@ Being the most experienced, the seniors were granted the lion's share of the wor
 
 Guadalupe, a part-time senior, has also hit their overtime levels almost immediately, and seems to be trending upwards in recent weeks. There is implicit pressure for part-time staff to do more hours than agreed during busy season, so Guadalupe's hours will need to be monitored closely
 
-## Conclusions:
-- It was vital to create these dashboards for the Project Manager to be able to determine which employees were available for additional work, and which were impacted.
-- Looking at the intern workloads and their time entry shows that they need many more work hours, given the coming deadline, but that part-time employee is getting a suitable percentage of work compared to the full-time employees.
-- Associates and Seniors need to be used for much more 4/15 work, given the coming deadline,
-- Seniors ...
+## Recommendations:
+- With almost 400 projects in the Waiting For Info stage, meaning there isn't sufficient info from the client to begin, almost 
+- Among the interns, the balance of work is good but they all need more total assigned hours. There are 226 available hours to assign, and that should be split between the interns, associates, and seniors.
+- The associates will still be wrapping up some extended 3/15 work, but they have a lot of bandwidth for more work. London's list is deceptively big, so he may be available for work, and Vance in particular needs many more hours assigned. The associates will also be extending most of the unstarted 4/15 projects.
+- Most seniors will be preparing or reviewing extended 3/15 projects, but they will also be fastest at extending the outstanding 4/15 projects.
