@@ -1,7 +1,9 @@
 # Tax Firm Data Analysis
 
 ## Project Goal:
-The goal of this project is to create a dashboard that enables the PM to assign work efficiently before the 4/15 deadline at a tax firm.
+The goal of this project is to design a dashboard that enables the PM to assign work so it is completed efficiently before the 4/15 deadline at a tax firm. The most efficient employee is determined by examining their current workload, their available hours (full-time vs. part-time), and if they have already worked on projects of the same group (groups are a collection of clients whose work is related either directly or indirectly).
+
+The goal was to design an optimization dashboard to support near real-time tax project assignments based on staff availability, skill level, workload, and their work on related projects, 
 
 ## Overview and Constraints:
 This project is based on work at a tax firm in busy season (February to mid-April). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
@@ -20,7 +22,7 @@ The data below was taken about ten days before the busy season deadline (4/15).
 ## Data Model:
 The data model is a simple one ... (One status is for employees, the other is the status of each project).
 
-![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/9d9cb104-6582-4fa5-8b6f-cf8d995ffa48)
+![Data Analyst GitHub Page - Data Model](https://github.com/user-attachments/assets/6ff058b2-2fe7-43ad-83a2-280a0c52fc5c)
 
 ## Metrics Used:
 The various reports/dashboards are:
