@@ -28,6 +28,7 @@ The data model below comes from the various tax software used within the office.
 ## Key Metrics
 The following metrics were used to identify the performance of each employee, and how many work hours should be added (or removed) from their list.
 
+- **Project Status** - The number of projects in various stages of their lifecycle, such as Unassigned, Assigned, In Preparation, Waiting for Info, and Completed.
 - **FTEAmount** - Full-Time Employee. from 0-1, represents if the employee is full-time or part-time.
 - **Work_In_Preparation** - A sum of all the project hours assigned to each employee where their role is preparer and the status is set to "In Prep."
 - **Work_Assigned** - A sum of all the project hours assigned to each employee where their role is preparer and the status is set to "In, Assigned."
@@ -36,7 +37,7 @@ The following metrics were used to identify the performance of each employee, an
 - **Subtotal** - A sum of all work hours above, except for work_unassigned, to get the total hours assigned to everyone
 - **CanAdd** - Subtotal / FTE. Normalizes full-time and part-time staff to see how many hours of work they can get through based on their availability. This reduces everyone's workload to a number adjusted to their work availability (part-time vs. full-time) and is most useful in showing the most available employee in ambiguous situations (e.g. multiple part-time employees with slightly different hours, and a similar number of hours assigned).
 
-## Metrics Used
+## Key Insights
 The various reports/dashboards are:
 - [4/15 Projects to Complete](#415-projects-to-complete)
 - [Determining Intern Workloads](#determining-intern-workloads)
