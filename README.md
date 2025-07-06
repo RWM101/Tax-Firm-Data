@@ -43,9 +43,9 @@ The various reports/dashboards are:
 - [Determining Intern Workloads](#determining-intern-workloads)
 - [Determining Associate and Senior Workloads](#determining-associate-and-senior-workloads)
 - [Weekly Performance](#weekly-performance)
-  - [Intern Weekly Performance](#intern-weekly-performance)
-  - [Associate Weekly Performance](#associate-weekly-performance)
-  - [Senior Weekly Performance](#senior-weekly-performance)
+  - [Intern Weekly Performance](#intern-weekly-performance-top-left)
+  - [Associate Weekly Performance](#associate-weekly-performance-top-right)
+  - [Senior Weekly Performance](#senior-weekly-performance-bottom-center)
 
 ## 4/15 Projects to Complete
 There are 873 projects remaining for the upcoming 4/15 deadline, in various stages of completion. Below are the number of projects in each step of their life cycle:
@@ -92,28 +92,21 @@ For the seniors, they would normally have workloads significantly higher than th
 
 Besides assigning and balancing work, it's also important to monitor the hours worked across the office. These changes over time were particularly difficult to picture with the built-in reporting, so these visualizations were particularly helpful.
 
-### Intern Weekly Performance
-![image](https://github.com/user-attachments/assets/cf0e3ed3-0893-4bb1-a042-43a9e13a7056)
+![image](https://github.com/user-attachments/assets/10aa0ee5-82d6-4a25-8222-adb34508c4a7)
 
-Zooming in on the interns, we can see immediately that Luca Rush and Cecilia McIntosh have had a similar amount of hours throughout their intership. Their weeks have been similar, showing a dip in hours at first, and then gradually more time working as their workloads increased. It has taken them a little while to hit regular overtime hours.
+### Intern Weekly Performance, Top Left
+- Despite an initial lull, Cecilia McIntosh and Luca Rush have steadily increased their hours to meet the demand.
+- Lucca Leon is part-time and started a little later than the others. Though they shows higher productivity than the other interns, we won't see full utilization until their hours stabilize.
 
-Lucca Leon, the part-time intern near the bottom, started on Week 6, and has also had variable hours. Her hours, however, have hovered closer to her maximum  availability from the beginning. Compared to the other two, she hit the ground running.
+### Associate Weekly Performance, Top Right
+- The associates have more volatile workloads, with a lull right after a large January project.
+- Desptie this, the associates reach their expected utilization quickly, and stay relatively busy.
+- Isaac Ward, in the bottom right corner, is a brand new hire. His productivity will be revealed in subsequent reports.
 
-Before it was observed That Lucca Leon was performing better than the full-time interns. That won't really be an asset until their worked hours stabilize, hopefully before the end of busy season.
-
-### Associate Weekly Performance
-![image](https://github.com/user-attachments/assets/9d2b1504-1d63-45fb-b1a3-710acc152968)
-
-The associates show a clear increase in hours as the weeks progress. They had some dips in late January as they completed work for our largest single client, but overall they all were quicker than the interns in reaching consistent overtime levels.
-
-London and Owen are the part-time staff, and they have been very active in getting up to speed. London's list is deceptively large, as he has three projects, each worth 40-50 hours of work, that he will only be touching intermittently.
-
-### Senior Weekly Performance
-![image](https://github.com/user-attachments/assets/dbbfe800-79e1-4919-ad3f-91694204fdc6)
-
-Being the most experienced, the seniors were granted the lion's share of the work, and  hit their overtime hours almost immediately. Since they also will be doing regular review work at this stage, they didn't hit the January slump that the Associates had; they are instead reviewing all the work that the Associates prepared.
-
-Guadalupe, a part-time senior, has also hit their overtime levels almost immediately, and seems to be trending upwards in recent weeks. There is implicit pressure for part-time staff to do more hours than agreed during busy season, so Guadalupe's hours will need to be monitored closely
+### Senior Weekly Performance, Bottom Center
+- Being more experienced, the seniors almost immediately hit their desired hours, showing full utilization.
+- Guadalupe, a part-timer, also hit full utilization almost immediately.
+- The fact they are doing both preparation and review work has eliminated the early lull that the associates experienced.
 
 ## Recommendations
 - With almost 400 projects in the Waiting For Info stage, meaning there isn't sufficient info from the client to begin, almost 
