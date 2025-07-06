@@ -53,12 +53,18 @@ There are 873 projects remaining for the upcoming 4/15 deadline, in various stag
 ![image](https://github.com/user-attachments/assets/dca93481-0bdd-45c9-ba3a-ed6efee5d9fd)
 
 
+- There is not enough time to complete 873 open projects, representing 4,600 hours of work.
+- With the two bottlenecks being the number of Waiting for Info projects, which can't be prepared, and Prep Complete projects, which need to be reviewed, partners should have preparers begin preparing extensions for the Waiting for Info projects in between their normal tax work, and reviewers should pivot to review work, and even preparing some tax returns as well.
+
 The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.  You can see we have many projects still in the "Waiting for Info" step, meaning we are still waiting for enough info from the client to begin. These will most likely be extended.
 
 ## Determining Intern Workloads
 Having only three interns this year serves as a bit of a bottleneck. Additionally, Lucca Leon is part time, working only 24 hrs. per week.
 
 ![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
+
+- Lucca Leon has higher utilization than most on an hour-to-hour basis, but all interns need more work assigned.
+- Almost all the Unassigned projects in the firm are at the intern level, and more experienced staff shoulbe brought in to take some pressure off.
 
 In the chart above, to the left, Cecelia and Luca Rush both have roughly 40 hours of work assigned, and Lucca Leon has 19 hours. The blue sections represent hours currently being worked on, and the orange hours represent upcoming work that has yet to be started.
 
@@ -74,6 +80,9 @@ Here is a list of all the associates and seniors assigned to projects, and the h
 The images below isolate the associates (left) and seniors (right).
 
 ![image](https://github.com/user-attachments/assets/31edfd92-9661-431d-9ed0-2a9010c25a8b)
+
+- London Moran's looks deceptively impacted; almost all of those hours are from three huge proejcts that will be touched intermittenly throughout the year. Having said that, all of the associates except for Joyce Gutierrez need additional work. Their time should be split between preparing intern projects and preparing extensions for those projects.
+- The Senior lists are also deceptive, as they are working almost entirely on projects out of scope for the current deadline, like complex 3/15 work that has been extended to 9/15. They should be working predominately on extensions, as they can get through them faster than any of the associates and interns.
 
 For the associates, the most immediate observation is that Owen Newman and Bishop Ingram both need more work assigned to their plate, while London Moran appears far too impacted. However, London has three large projects (each with a budget of 40-50 hours) that they will only work on intermittently, so they appear far busier than they are. They will likely also need work. Vance Hoover and Joyce Gutierrez have a decent amount of work right now.
 
