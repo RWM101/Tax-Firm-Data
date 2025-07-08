@@ -55,9 +55,7 @@ There are 873 projects remaining for the upcoming 4/15 deadline, in various stag
 
 - There is not enough time to complete 873 open projects, representing 4,600 hours of work.
 - With the two bottlenecks being the number of Waiting for Info projects, which can't be prepared, and Prep Complete projects, which need to be reviewed, partners should have preparers begin preparing extensions for the Waiting for Info projects in between their normal tax work, and reviewers should pivot to review work, and even preparing some tax returns as well.
-
-The top chart is the number of projects in each stage, and the bottom chart is the number of corresponding preparer hours in each stage.  You can see we have many projects still in the "Waiting for Info" step, meaning we are still waiting for enough info from the client to begin. These will most likely be extended.
-
+- 
 ## Determining Intern Workloads
 Having only three interns this year serves as a bit of a bottleneck. Additionally, Lucca Leon is part time, working only 24 hrs. per week.
 
@@ -65,12 +63,6 @@ Having only three interns this year serves as a bit of a bottleneck. Additionall
 
 - Lucca Leon has higher utilization than most on an hour-to-hour basis, but all interns need more work assigned.
 - Almost all the Unassigned projects in the firm are at the intern level, and more experienced staff shoulbe brought in to take some pressure off.
-
-In the chart above, to the left, Cecelia and Luca Rush both have roughly 40 hours of work assigned, and Lucca Leon has 19 hours. The blue sections represent hours currently being worked on, and the orange hours represent upcoming work that has yet to be started.
-
-The right image shows 225 hours ready to be assigned to an intern. This number comes from all projects ready to be assigned to an intern. Each intern project has a budget between 2 and 6 hours, so the 225 hours could represent between a couple dozen projects or just over 100 projects.
-
-The goal is to keep full-time interns at near 50 assigned hours. Lucca Leon should be at around 25 hours. Since they will run out of work once they finish their current items, the priority would be to prioritize both Lucca Rush and Lucca Leon when assigning projects. Once they get to 50 and 25 assigned hours, respectively, projects should then be assigned to Cecelia.
 
 ## Determining Associate and Senior Workloads
 Here is a list of all the associates and seniors assigned to projects, and the hours of each stage.
@@ -83,10 +75,6 @@ The images below isolate the associates (left) and seniors (right).
 
 - London Moran's looks deceptively impacted; almost all of those hours are from three huge proejcts that will be touched intermittenly throughout the year. Having said that, all of the associates except for Joyce Gutierrez need additional work. Their time should be split between preparing intern projects and preparing extensions for those projects.
 - The Senior lists are also deceptive, as they are working almost entirely on projects out of scope for the current deadline, like complex 3/15 work that has been extended to 9/15. They should be working predominately on extensions, as they can get through them faster than any of the associates and interns.
-
-For the associates, the most immediate observation is that Owen Newman and Bishop Ingram both need more work assigned to their plate, while London Moran appears far too impacted. However, London has three large projects (each with a budget of 40-50 hours) that they will only work on intermittently, so they appear far busier than they are. They will likely also need work. Vance Hoover and Joyce Gutierrez have a decent amount of work right now.
-
-For the seniors, they would normally have workloads significantly higher than the associates, but their large deadline was on 3/15, so their workloads will be more equivalent to the associates. Shelby is the one most in need of work, and the majority of the others are in good shape. Diego also has a significant amount of review work. Overall the seniors are in good shape.
 
 ## Weekly Performance
 
@@ -109,7 +97,13 @@ Besides assigning and balancing work, it's also important to monitor the hours w
 - The fact they are doing both preparation and review work has eliminated the early lull that the associates experienced.
 
 ## Recommendations
-- With almost 400 projects in the Waiting For Info stage, meaning there isn't sufficient info from the client to begin, almost 
-- Among the interns, the balance of work is good but they all need more total assigned hours. There are 226 available hours to assign, and that should be split between the interns, associates, and seniors.
-- The associates will still be wrapping up some extended 3/15 work, but they have a lot of bandwidth for more work. London's list is deceptively big, so he may be available for work, and Vance in particular needs many more hours assigned. The associates will also be extending most of the unstarted 4/15 projects.
-- Most seniors will be preparing or reviewing extended 3/15 projects, but they will also be fastest at extending the outstanding 4/15 projects.
+- Prioritize extensions to get through the 873 projects and 4,600 hours of work over the next ten days.
+- Direct the associates to prioritize preparing intern projects and preparing inter project extensions.
+- Direct the associates to focus on extensions. They can get through the work quickly and most open projects need to be extended. 
+- Prioritize assigning work to Lucca Leon and Lucca Rush until they hit target hours (25 and 50 hrs, respectively).
+- Reallocate projects from London Moran once large projects are in progress to prevent hidden bottlenecks.
+
+## Next Steps
+Right now much of the Project Manager's role involves a lot of triage when assigning projects, and there are ways to find potential bottlenecks before they surface. When projects are completed and rolled over to the next year all the assigned preparers carry over, so the next step would be to do forecasting, showing the number of projects and project hours assigned to all staff at the start of each year. This would highlight the favored preparers who have too many hours assigned to them for the year, as well as the preparers who are being ignored, and likely will be looking for work year-long.
+
+Additionally, the firm has switched to new tracking software, which includes additional metrics for how long projects have remained in each status. This would be useful to find where projects are stalling throughout their life-cycle, and to highlight which projects have been stalled the longest. Not only could we see who is responsible for each stalled project, but partners could also see which clients are being underserved by inaction.
