@@ -1,14 +1,14 @@
 # Tax Firm Data Analysis
 
 ## Project Goal
-The goal of this project is to create a dashboard for the Project Manager at a tax firm to assign work efficiently so it is completed before the 4/15 deadline. The dashboard needs to show which employees should be assigned additional work, determined by looking at key metrics like employee workloads, available hours (full-time vs.   part-time), and if they have already worked on projects of the same group (groups are a collection of clients whose work is related either directly or indirectly).
+This project analyzes 873 open tax projects representing 4,600 hours of preparer work to optimize task assignment at a mid-sized tax firm. Power BI dashboards were developed to help the Project Manager assign more work efficiently based on employee skill, availability, and project history.
 
 ## Overview and Constraints
-This project is based on work at a tax firm in busy season (February to mid-April). At this particular tax firm, there was no efficient way to determine who should be assigned more tax work. The traditional process had been to review each tax preparer's workloads manually, and to reach out to staff individually in case of unknown bottlenecks or roadblocks. Gathering enough info to assign tax projects effectively could take anywhere between 15 minutes and 2 hours, which is not tenable with the amount of tax projects to assign during busy season.
 
-The data below is roughly ten days before the 4/15 deadline, and there are currently 873 tax projects which need to be prepared, totaling roughly 4,600 hours of work to assign to 15 preparers.
-
-The visualizations below are part of a near-real-time dashboard which highlights the "best" employees for additional work. The "best" employee can depend on their skill level, current workload, available hours (full-time vs. part-time) and if they have already done any work this year that relates to the tax project or client in question.
+## Overview
+- Previously there was no efficient way to determine who was low on work. Employees would seek out more projects on their own from the firm partners.
+- This process could result in 30-120 min in lost productivity.
+- The data is from roughly 10 days before the 4/15 deadline. There are 873 open tax projects, totaling ~4,600 hours to prepare.
 
 ### Constraints
 - Almost all tax projects have to go through the PM, who determines the "best" employee(s) to prepare each project, based on the criteria above (skill level, current workload, available hours, and work on related projects).
@@ -103,6 +103,5 @@ In addition to assigning and balancing tasks, monitoring office hours is necessa
 - Reallocate projects from London Moran once large projects are in progress to prevent hidden bottlenecks.
 
 ## Next Steps
-Right now, much of the Project Manager's role involves eliminating potential bottlenecks before they surface. When projects are completed and rolled over to the following year, all the assigned preparers carry over, so the next step would be to do forecasting, showing the number of projects and project hours assigned to all staff at the start of each year. This would emphasize the preparers with excessive hours allocated for the year, as well as those who are underutilized and will likely be seeking work throughout the year.
-
-Additionally, the firm has switched to new tracking software, which includes additional metrics for how long projects have remained in each status. This would be useful to find where projects are stalling throughout their life cycle, and to highlight which projects have been stalled the longest. Not only could we see who is responsible for each stalled project, but partners could also see which clients are being underserved by inaction.
+- Build a forecast dashboard. Assigned staff are carried over year-after-year, so it's possible to see who is already over- and under-utilized. The Project Manager can make changes and recommendations based on this.
+- As the firm has switched to new software, it is now possible to see where projects are stalling and losing momentum. The next action item would be to pull all projects which have been "sitting" at a particular status longer than average. The PM can then follow-up with partners about their projects that make the list.
