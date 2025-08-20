@@ -61,7 +61,7 @@ Having only three interns this year creates a bottleneck. Additionally, Lucca Le
 ![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
 
 - Lucca Leon has higher utilization than most on an hour-to-hour basis, but all interns need more work assigned.
-- Almost all the Unassigned projects in the firm are at the intern level, and more experienced staff should be used to take some pressure off.
+- Almost all the Unassigned projects in the firm are at the intern level, and more experienced staff (seniors and above) should be used to take some pressure off.
 
 ## Determining Associate and Senior Workloads
 Here is a list of all the associates and seniors assigned to projects, along with the hours for each stage.
