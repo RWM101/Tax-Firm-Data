@@ -3,6 +3,8 @@
 ## Project Goal
 This project analyzes 873 open tax projects representing 4,600 hours of preparer work to optimize task assignment at a mid-sized tax firm. Power BI dashboards were developed to help the Project Manager assign more work efficiently based on employee skill, availability, and project history.
 
+This project streamlined the reporting process, removing all manual data entry. Reduced reporting time from 2 hrs/week to 30 seconds. This allows for running the report repeatedly throughout the day for near-real-time information.
+
 ## Overview and Constraints
 
 ## Overview
@@ -28,14 +30,17 @@ The data model below comes from the various tax software used within the office.
 ## Key Metrics
 The following metrics identify the performance of each employee, and how many work hours should be added (or removed) from their list.
 
-- **Project Status** - The number of projects in various stages of their life cycle, such as Unassigned, Assigned, In Preparation, Waiting for Info, and Completed.
-- **FTEAmount** - Full-Time Employee. from 0-1, represents if the employee is full-time or part-time.
-- **Work_In_Preparation** - A sum of all the project hours assigned to each employee where their role is preparer and the status is "In Prep."
-- **Work_Assigned** - A sum of all the project hours assigned to each employee where their role is preparer and the status is set to "In, Assigned."
-- **Review_Work** - A sum of all the project hours assigned to each employee where their role is preparer and the status is either "Prep Complete" or "In Review."
-- **Work_Unassigned** - A sum of all work hours above, except for work_unassigned, to get the total hours assigned to everyone.
-- **Subtotal** - A sum of all work hours above, except for work_unassigned, to get the total hours assigned to everyone
-- **CanAdd** - Subtotal / FTE. Normalizes full-time and part-time staff to see how many hours of work they can get through based on their availability. This column condenses everyone's workload to a number, adjusted to their work availability (part-time vs. full-time). It helps show the most available employee in ambiguous situations (e.g., multiple part-time employees with slightly different hours, and a similar number of hours assigned).
+- **Current Workload Metrics**
+  - **Project Status** - The number of projects in various stages of their life cycle, such as Unassigned, Assigned, In Preparation, Waiting for Info, and Completed.
+  - **Work_In_Preparation** - A sum of all the project hours assigned to each employee where their role is preparer and the status is "In Prep."
+  - **Work_Assigned** - A sum of all the project hours assigned to each employee where their role is preparer and the status is set to "In, Assigned."
+  - **Review_Work** - A sum of all the project hours assigned to each employee where their role is preparer and the status is either "Prep Complete" or "In Review."
+  - **Subtotal** - A sum of all work hours above, except for work_unassigned, to get the total hours assigned to everyone.
+- **Backlog/Unassigned Metrics**
+  - **Work_Unassigned** - A sum of all work hours above, except for work_unassigned, to get the total hours assigned to everyone.
+- **Capacity Normalization**
+  - **FTEAmount** - Full-Time Employee. from 0-1, represents if the employee is full-time or part-time.
+  - **CanAdd** - The Subtotal / FTE. Equalizes the assigned hours by many hours staffmembers work. This simplifies who should get more work in ambiguous situations.
 
 ## Key Insights
 The various reports/dashboards are:
@@ -53,13 +58,14 @@ The various reports/dashboards are:
 ![image](https://github.com/user-attachments/assets/dca93481-0bdd-45c9-ba3a-ed6efee5d9fd)
 
 - There is not enough time to complete 873 open projects, representing 4,600 hours of work.
-- The two bottlenecks are the Waiting for Info projects, which are not yet ready, and the Prep Complete projects, which need to be reviewed. Partners should have preparers begin preparing extensions for the Waiting for Info projects in between their current tax projects. Reviewers should pivot to review work, and even preparing some tax returns as well.
+- Waiting for Info and Prep Complete projects are the two bottlenecks. Partners should have preparers extend the Waiting for Info projects, and have the reviewers review the Prep Complete projects and prepare some Assigned projects.
 
 ## Determining Intern Workloads
 Having only three interns this year creates a bottleneck. Additionally, Lucca Leon is part-time, working only 24 hrs. per week.
 
 ![image](https://github.com/user-attachments/assets/7795b388-f2d9-4351-80f4-2f1525ab23cc)
 
+- Identifies 225 hrs. of work still unassigned, waiting for interns to clear their current backlog.
 - Lucca Leon has higher utilization than most on an hour-to-hour basis, but all interns need more work assigned.
 - Almost all the Unassigned projects in the firm are at the intern level, and more experienced staff (seniors and above) should be used to take some pressure off.
 
@@ -72,7 +78,8 @@ The images below isolate the associates (left) and seniors (right).
 
 ![image](https://github.com/user-attachments/assets/31edfd92-9661-431d-9ed0-2a9010c25a8b)
 
-- London Moran's looks deceptively impacted; almost all of those hours are from three large projects, which they will prepare intermittently throughout the year. All of the associates except for Joyce Gutierrez need additional work. They should split their time between preparing intern projects and preparing extensions for those projects.
+- 150 hours of London Moran's list are deceptive; those hours are from three projects that will be completed throughout the year (beyond the current deadline).
+- All of the associates except for Joyce Gutierrez need additional work. Their time should be split between preparing intern projects and preparing extensions.
 - The Senior lists can be misleading since they primarily focus on projects that are beyond the current deadline, like complex 3/15 work that was extended to 9/15. They should be working predominantly on extensions, as they can complete them more quickly than any of the associates and interns.
 
 ## Weekly Performance
@@ -103,5 +110,13 @@ In addition to assigning and balancing tasks, monitoring office hours is necessa
 - Reallocate projects from London Moran once large projects are in progress to prevent hidden bottlenecks.
 
 ## Next Steps
-- Build a forecast dashboard. Assigned staff are carried over year-after-year, so it's possible to see who is already over- and under-utilized. The Project Manager can make changes and recommendations based on this.
-- As the firm has switched to new software, it is now possible to see where projects are stalling and losing momentum. The next action item would be to pull all projects which have been "sitting" at a particular status longer than average. The PM can then follow-up with partners about their projects that make the list.
+
+### Forecast Dashboard
+- Build a forecast dashboard to see staff assigned to upcoming work.
+- Determine who is over- and under-utilized so the PM can make recommendations to their stakeholders for the rest of the year.
+
+### Stalled Projects list
+- The firm has switched to new software, allowing for more detailed reporting.
+- It is now possible to see where projects are stalling and losing momentum.
+- Create a list to highlight which projects, by partner, have sat idle the longest so the PM can keep those projects moving.
+- Append the data to current dashboards so the PM doesn't have to hunt down this information.
