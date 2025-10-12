@@ -7,7 +7,7 @@ This project streamlined the reporting process, removing all manual data entry. 
 
 ## Overview and Constraints
 
-## Overview
+### Overview
 - Previously there was no efficient way to determine who was low on work. Employees would seek out more projects on their own from the firm partners.
 - This process could result in 30-120 min in lost productivity.
 - The data is from roughly 10 days before the 4/15 deadline. There are 873 open tax projects, totaling ~4,600 hours to prepare.
