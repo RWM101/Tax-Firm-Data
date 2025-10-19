@@ -109,7 +109,7 @@ In addition to assigning and balancing tasks, monitoring office hours is necessa
 - Prioritize assigning work to Lucca Leon and Lucca Rush until they reach their target hours (25 and 50 hours, respectively).
 - Reallocate projects from London Moran once large projects are in progress to prevent hidden bottlenecks.
 
-## Next Steps
+## Recommended Next Steps
 
 ### Forecast Dashboard
 - Build a forecast dashboard to see staff assigned to upcoming work.
